@@ -1,5 +1,3 @@
-# AI_Based_Mental_Health_Analser_And_Predictor
-
 
 ---
 
