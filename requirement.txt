@@ -1,0 +1,10 @@
+streamlit
+numpy
+pandas
+scikit-learn
+joblib
+Cython
+prophet
+plotly
+pystan==2.19.1.1
+matplotlib
